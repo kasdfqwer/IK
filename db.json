@@ -1,0 +1,158 @@
+{
+    "products":[
+        {
+            "id":0,
+            "img":"https://www.iklamp.co.kr/data/item/1686481773/SNOWMAN40_P_WhiteGrayB.jpg",
+            "title":"IK 시리즈 SNOWMAN40 Pendant",
+            "content": "IK의 시그니처 모델인 스노우맨을 400mm로 만든 펜던트입니다",
+            "price":"￦520,000",
+            "choice":true,
+            "new":true,
+            "color":["white","butter","chrome"]
+
+        },
+        {
+            "id":1,
+            "img":"https://www.iklamp.co.kr/data/item/1680573759/SNOWMAN15_PS_ButterGrayB.jpg",
+            "title":"IK 시리즈 SNOWMAN15 Portable Stand",
+            "content": "IK의 시그니처 모델인 스노우맨을 400mm로 만든 펜던트입니다",
+            "price":"￦110,000",
+            "choice":true,
+            "new":true,
+            "color":["white","butter","ice blue"]
+
+        },
+        {
+            "id":2,
+            "img":"https://www.iklamp.co.kr/data/item/1680582288/SWAN2_FS_OdenseEdition_ChromeGrayB.jpg",
+            "title":"IK 시리즈 SWAN2 Floor Stand",
+            "content": "일광전구와 오덴세(ODENSE)가 협업하여 완성한 테이블, 플로어 스탠드 SWAN2는 두 브랜드의 오랜 경험과 노하우가 집약된 제품입니다.",
+            "price":"￦340,000",
+            "choice":false,
+            "new":true,
+            "size":["white","butter","ice blue"]
+
+        },
+        {
+            "id":3,
+            "img":"https://www.iklamp.co.kr/data/item/1680582018/SWAN2_TS_OdenseEdition_ChromeGrayB.jpg",
+            "title":"IK 시리즈 SWAN2 Table Stand",
+            "content": "일광전구와 오덴세(ODENSE)가 협업하여 완성한 테이블, 플로어 스탠드 SWAN2는 두 브랜드의 오랜 경험과 노하우가 집약된 제품입니다.",
+            "price":"￦240,000",
+            "choice":false,
+            "new":true,
+            "color":["chrome","ivory","black"]
+
+        },
+        {
+            "id":4,
+            "img":"https://www.iklamp.co.kr/data/item/1680574316/PINOCCHIO120A_P_WhiteGrayB.jpg",
+            "title":"IK 시리즈 PINOCCHIO120 A Pendant",
+            "content": "PINOCCHI120은 동화 속 피노키오의 코를 닮은 긴 파이프를 가지고 있는 바타입(Bar Type) 조명입니다.",
+            "price":"￦290,000",
+            "choice":true,
+            "new":false,
+            "color":["white","silver","black"]
+
+        },
+        {
+            "id":5,
+            "img":"https://www.iklamp.co.kr/data/item/1680580874/PINOCCHIO120B_P_SilverGrayB.jpg",
+            "title":"IK 시리즈 PINOCCHIO120 B Pendant",
+            "content":"PINOCCHI120은 동화 속 피노키오의 코를 닮은 긴 파이프를 가지고 있는 바타입(Bar Type) 조명입니다.",
+            "price":"￦280,000",
+            "choice":false,
+            "new":false,
+            "color":["white","silver","black"]
+
+        },
+        {
+            "id":6,
+            "img":"https://www.iklamp.co.kr/data/item/1680583384/WORKSHOP38_P_SteelGrayGrayB.jpg",
+            "title":"IK 시리즈 WORKSHOP38 Pendant",
+            "content":"WORKSHOP은 작업실이나 공장의 천장에 걸린 투박하고 단단한 형태의 산업용 조명기구에서 시작된 펜턴트 조명입니다.",
+            "price":"￦190,000",
+            "choice":true,
+            "new":false,
+            "color":["butter","silver gray","moss green"]
+
+        },
+        {
+            "id":7,
+            "img":"https://www.iklamp.co.kr/data/item/1680582778/WORKSHOP28_P_MossGreenGrayB.jpg",
+            "title":"IK 시리즈 WORKSHOP28 Pendant",
+            "content":"WORKSHOP은 작업실이나 공장의 천장에 걸린 투박하고 단단한 형태의 산업용 조명기구에서 시작된 펜턴트 조명입니다.",
+            "price":"￦150,000",
+            "choice":false,
+            "new":true,
+            "color":["buter","silver gray","moss green"]
+
+        },
+        {
+            "id":8,
+            "img":"https://www.iklamp.co.kr/data/item/1680582373/WORKSHOP18_P_ButterGrayB.jpg",
+            "title":"IK 시리즈 WORKSHOP18 Pendant",
+            "content":"WORKSHOP은 작업실이나 공장의 천장에 걸린 투박하고 단단한 형태의 산업용 조명기구에서 시작된 펜턴트 조명입니다.",
+            "price":"￦120,000",
+            "choice":true,
+            "new":true,
+            "color":["butter","silver gray","moss green"]
+
+        },
+        {
+            "id":9,
+            "img":"https://www.iklamp.co.kr/data/item/1677729800/SNOWMAN221.1_TableStand_Butter.jpg",
+            "title":"IK 시리즈 SNOWMAN22 SOLID Table Stand",
+            "content":"SNOWMAN Series 상단의 납작한 눈사람의 모습과 닮은 22cm의 둥글고 부드러운 형태의 유리구는 기계의 정교함이 만들 수 없는 자연스러운 매력을 더하기 위해 수작업 블로잉 방식으로 제작되었습니다.",
+            "price":"￦230,000",
+            "choice":false,
+            "new":true,
+            "color":["white","silver gray","moss green"]
+
+        },
+        {
+            "id":10,
+            "img":"https://www.iklamp.co.kr/data/item/1677729789/SNOWBALL221.1_TableStand_Peach.jpg",
+            "title":"IK 시리즈 SNOWBALL22 SOLID Table Stand",
+            "content":"SNOWMAN Series 상단의 납작한 눈사람의 모습과 닮은 22cm의 둥글고 부드러운 형태의 유리구는 기계의 정교함이 만들 수 없는 자연스러운 매력을 더하기 위해 수작업 블로잉 방식으로 제작되었습니다.",
+            "price":"￦210,000",
+            "choice":true,
+            "new":false,
+            "color":["white","silver gray","moss green"]
+
+        },
+        {
+            "id":11,
+            "img":"https://www.iklamp.co.kr/data/item/1668045904/FONDUE16_TableStand_Ivory.jpg",
+            "title":"IK 시리즈 FONDUE16 Table Stand KYOBO BOOK Edition",
+            "content":"일광전구와 교보문고가 협업하여 완성한 테이블 스탠드 퐁듀16(FONDUE16)은 몰이빙 필요한 순간, 편안한 휴식의 순간 모두를 위해 고안된 독서등(Reading Lamp)입니다.",
+            "price":"￦280,000",
+            "choice":true,
+            "new":true,
+            "color":["white","silver gray","moss green"]
+
+        },
+        {
+            "id":12,
+            "img":"https://www.iklamp.co.kr/data/item/1653355783/TRIANGLE120A_Pendant_01_White_re.jpg",
+            "title":"IK 시리즈 TRIANGLE120 A Pendant",
+            "content":"TRIANGLE120은 삼각형(이등변삼각형)이 가지고 있는 조형적 특성을 모티브로 디자인적인 위트와 구조적으로 강력한 내구성을 함께 가지고 있는 조명입니다.",
+            "price":"￦390,000",
+            "choice":true,
+            "new":true,
+            "color":["white","black","buter"]
+
+        },
+        {
+            "id":13,
+            "img": "https://www.iklamp.co.kr/data/item/1653355793/TRIANGLE120B_Pendant_01_Beech_re.jpg",
+            "title":"IK 시리즈 TRIANGLE120 B Pendant",
+            "content":"TRIANGLE120은 삼각형(이등변삼각형)이 가지고 있는 조형적 특성을 모티브로 디자인적인 위트와 구조적으로 강력한 내구성을 함께 가지고 있는 조명입니다.",
+            "price":"￦390,000",
+            "choice":false,
+            "new":false,
+            "color":["black","buter","silver gray"]
+
+        }
+    ]
+}
